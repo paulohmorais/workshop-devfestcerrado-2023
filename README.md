@@ -11,8 +11,8 @@ Workshop ministrado no devfestcerrado 2023, sobre signoz e open telemetry
 ```
 sudo apt-get update
 sudo apt-get -y install wget systemctl
-wget https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.89.0/otelcol_0.89.0_linux_amd64.deb
-sudo dpkg -i otelcol_0.89.0_linux_amd64.deb
+wget https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.89.0/otelcol-contrib_0.89.0_linux_amd64.deb
+sudo dpkg -i otelcol-contrib_0.89.0_linux_amd64.deb
 ```
 
 # Check Status
